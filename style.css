@@ -92,3 +92,30 @@ footer {
     margin-top: 20px;
     font-size: 0.9rem;
 }
+
+/* Job Section Styling */
+.job {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #fafafa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.job h3 {
+    margin: 0;
+    color: #333;
+    font-size: 1.3rem;
+}
+
+.job p {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.job ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #333;
+}
